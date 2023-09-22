@@ -1,7 +1,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: darkmagenta;
+    background-color: rgb(116, 0, 139);
     padding: 60px;
     margin-top: 60px;
     
@@ -33,3 +33,33 @@ h1 {
     display: inline-block;
     box-shadow: 0px 17px 10px -10px rgba(0, 0, 0, 0.4);
   }
+
+    .hero{
+          padding: 30px  50px;
+        width: 1280px;
+        height: 640px;
+        background-color: rgba(145, 86, 179, 0.637);
+        border-radius: 40px
+        
+        
+    }
+    #lets
+    { 
+        width: 345.859;
+        height: 84.236;
+        transform: rotate(-1.981deg);
+        flex-shrink:  0;
+        background: #fff
+
+    }
+#unique
+{
+    width: 368.961;
+    height: 88.3;
+    transform: rotate(-1.981deg);
+    flex-shrink:  0;
+    background: rgb(116, 0, 139)
+
+}
+
+</style>
